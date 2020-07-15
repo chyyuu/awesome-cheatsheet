@@ -64,6 +64,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [f#-cheat-sheet](http://dungpa.github.io/fsharp-cheatsheet)
 - [flow-cheat-sheet](https://devhints.io/flow)
 - [golang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet)
+    - [golang refcard](http://www.cheat-sheets.org/saved-copy/go-lang-cheat-sheet-master.20181212/golang_refcard.pdf)
     - [Cheat sheet for some of the common concurrent flows in Go](https://github.com/rakyll/coop)
     - [Go crash course cheatsheet - Devhints](https://devhints.io/go)
 - [java-cheat-sheet](http://introcs.cs.princeton.edu/java/11cheatsheet/)
@@ -95,6 +96,19 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [A collection of Ruby Net::HTTP examples](https://github.com/augustl/net-http-cheat-sheet)
 - [rust-cheat-sheet](https://static.rust-lang.org/doc/0.9/complement-cheatsheet.html)
     - [Rust Language Cheat Sheet](https://cheats.rs/)
+    - :star: [Syntax Index](https://doc.rust-lang.org/book/syntax-index.html)
+    - [The Periodic Table of Rust Types](http://cosmic.mearie.org/2014/01/periodic-table-of-rust-types/) - Kang Seonghoon
+    - [Rust Iterator Cheat Sheet](https://danielkeep.github.io/itercheat_baked.html) - [Daniel Keep][]
+    - [Rust String Conversions Cheat Sheet](https://docs.google.com/spreadsheets/d/19vSPL6z2d50JlyzwxariaYD6EU2QQUQqIDOGbiGQC7Y/pubhtml?gid=0&single=true) - GavinB
+    - [Rustic Symmetries](https://github.com/kmcallister/rustic-symmetries/blob/master/README.md#rustic-symmetries) - kmc
+    - [Rust Container Cheat Sheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/edit?usp=sharing) - Raph Levien
+    - [Graphical depiction of ownership and borrowing in Rust](https://rufflewind.com/img/rust-move-copy-borrow.png) - Phil Ruffwind
+    - [Lifetime Reference](https://www.charlesetc.com/lifetime-reference/) - Charles
+    - [Phaiax's Rust Cheatsheet](http://phaiax.github.io/rust-cheatsheet/) - Phaiax
+    - [Rust Language Cheat Sheet](https://cheats.rs/) - Ralf Biedert
+    - [Rust cheat sheet (beginner oriented)](https://www.breakdown-notes.com/make/load/rust_cs_canvas/true)
+    - [A type-based Rust cheatsheet](https://upsuper.github.io/rust-cheatsheet/) - Xidorn Quan
+    
 - [scala-cheat-sheet](http://docs.scala-lang.org/cheatsheets/)
 - [scheme-cheat-sheet](http://courses.cs.washington.edu/courses/cse341/02wi/scheme/cheat-sheet.html)
 - [shell-cheat-sheet](https://github.com/NisreenFarhoud/Bash-Cheatsheet)
